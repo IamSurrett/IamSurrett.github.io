@@ -4,8 +4,8 @@
 
 ## About Me
 
-I am a (mostly) self-taught web developer  
-In my free time, I enjoy working with an Arduino computer, taking technology apart to figure out how it works, and listening to classical music
+I am a (mostly) self-taught web developer.  
+I started learning JavaScript through the Hour of Code program in 2015 and have been passionate about learning computer science ever since. I studied computer science through Bob Jones University from 2017-2019 and am currently studying on my own, trying to get a web development job before finishing my bachelors degree. Outside of work, I enjoy reading, expanding my collection of fun facts, fixing things, and baking.
 
 ## Projects
 
