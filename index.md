@@ -1,6 +1,6 @@
 # Amy Surrett
 
-![profile_picure](./profile.jpg)
+![profile_picure](./profile.jpg?v=4&s=200)
 
 ## About Me
 
