@@ -1,7 +1,6 @@
 # Amy Surrett
 
-<img src="https://raw.githubusercontent.com/IamSurrett/IamSurrett.github.io/master/profile.jpg" width="450" height="600">
-![profile_picure](./profile.jpg?v=4&s=200)
+<img alt="profile picture" src="https://raw.githubusercontent.com/IamSurrett/IamSurrett.github.io/master/profile.jpg" width="450" height="600">
 
 ## About Me
 
