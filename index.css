@@ -13,7 +13,19 @@
     max-width: 60%;
   }
   
-  section{
+  section {
     padding-top: 50px;
   }
   
+  .contact-icon {
+    font-size: 10em;
+    color: #000000;
+  }
+  
+  .skill-icon {
+    font-size: 3em;
+  }
+  
+  .hobbies-list {
+    list-style-type: none;
+  }
